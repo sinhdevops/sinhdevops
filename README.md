@@ -1,10 +1,4 @@
-<div align="center">
-  <a href="https://discord.com/users/1291013382849167542">
-    <img src="https://lanyard.cnrad.dev/api/1291013382849167542?showDisplayName=true&idleMessage=Just%20a%20normal%20developer" alt="Discord Presence"/>
-  </a>
-</div>
 
----
 
 ## 🚀 About Me
 
